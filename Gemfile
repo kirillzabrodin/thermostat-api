@@ -1,0 +1,18 @@
+source 'https://rubygems.org'
+
+ruby '2.5.0'
+
+gem 'active_record_migrations'
+gem 'activerecord'
+gem 'capybara'
+gem 'pg'
+gem 'rack-cors', require: 'rack/cors'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'simplecov-console'
+gem 'sinatra'
+gem 'sinatra-flash'
+gem 'thin'
+gem 'json'
